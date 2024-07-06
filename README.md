@@ -1,4 +1,5 @@
 # Hello there, I'm Kyau `/kī′yō/` 👋
+
 [![Public Email](https://img.shields.io/badge/-Public%20Email-805ff9?style=flat&logo=Mail.Ru&logoColor=white)](mailto:git@kyaulabs.com) ![](https://img.shields.io/badge/-GPG%3a1F125B5425110CCE-8093dd?style=flat&logo=GNU-Privacy-Guard&logoColor=white&labelColor=8093dd)\
 [![Github](https://img.shields.io/badge/-Github-222?style=flat&logo=Github&logoColor=white)](https://github.com/kyau) [![Github](https://img.shields.io/badge/-GitLab-222?style=flat&logo=GitLab&logoColor=white)](https://gitlab.com/kyau) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seancbruen/) [![YouTube](https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/kyaulabs)\
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kyau.kyau)
@@ -15,7 +16,7 @@ function say_hello() {
 
 if [[ $- != *i* ]]; then
   export USERNAME="Kyau"
-  export ROLE="Linux System Administrator"
+  export ROLE="Software Developer"
   export LANGUAGE="en_US"
   say_hello
 fi
@@ -24,7 +25,7 @@ fi
 ## 🔗 Websites
 
 * Personal website and wiki: [https://kyau.net](https://kyau.net)
-* Personal homelab website: [https://kyaulabs.com](https://kyaulabs.com)
+* Homelab website: [https://kyaulabs.com](https://kyaulabs.com)
 * VOID BBS (old school dialup BBS, now telnet): [https://voidbbs.com](https://voidbbs.com)
 
 ## 💾 Technologies & Tools
@@ -32,7 +33,7 @@ fi
 ![Ansible](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=6aa6f8) ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8) ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8) ![MySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mariadb&logoColor=white&color=6aa6f8) ![NGINX](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=6aa6f8) ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8) ![QEMU](https://img.shields.io/badge/Tools-QEMU-informational?style=flat&logo=qemu&logoColor=white&color=6aa6f8)  ![VMware](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=vmware&logoColor=white&color=6aa6f8) ![Wireguard](https://img.shields.io/badge/Tools-Wireguard-informational?style=flat&logo=wireguard&logoColor=white&color=6aa6f8)
 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8) ![Vim](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=6aa6f8) ![Fish](https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=GNOME-Terminal&logoColor=white&color=6aa6f8)\
-![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6aa6f8) ![SublimeText](https://img.shields.io/badge/Editor-SublimeText-informational?style=flat&logo=Sublime-Text&logoColor=white&color=6aa6f8) ![WindowsTerminal](https://img.shields.io/badge/Shell-Windows%20Terminal-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=6aa6f8)
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6aa6f8) ![SublimeText](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual-Studio&logoColor=white&color=6aa6f8) ![WindowsTerminal](https://img.shields.io/badge/Shell-Windows%20Terminal-informational?style=flat&logo=Windows-Terminal&logoColor=white&color=6aa6f8)
 
 ## 🌱 Languages
 
