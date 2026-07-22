@@ -52,4 +52,4 @@ fi
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=kyau&theme=onedark&column=7&no-frame=true)
+![trophy](https://github-profile-trophy-unserori.vercel.app/?username=kyau&theme=onedark&column=7&no-frame=true)
